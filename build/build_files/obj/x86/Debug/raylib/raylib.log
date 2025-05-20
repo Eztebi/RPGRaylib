@@ -1,0 +1,37 @@
+﻿  raudio.c
+  rcore.c
+C:\Users\ALUMNOS\Desktop\raylib-quickstart\build\external\raylib-master\src\external\jar_xm.h(130,22): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "../external/raylib-master/src/raudio.c")
+  
+C:\Users\ALUMNOS\Desktop\raylib-quickstart\build\external\raylib-master\src\external\jar_xm.h(143,22): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "../external/raylib-master/src/raudio.c")
+  
+C:\Users\ALUMNOS\Desktop\raylib-quickstart\build\external\raylib-master\src\external\jar_xm.h(242,1): warning C4005: 'DEBUG': redefinición de macro
+  (compilando archivo de origen "../external/raylib-master/src/raudio.c")
+  C:\Users\ALUMNOS\Desktop\raylib-quickstart\build\external\raylib-master\src\external\jar_xm.h(242,1):
+  'DEBUG' declarado previamente en la línea de comandos
+  
+C:\Users\ALUMNOS\Desktop\raylib-quickstart\build\external\raylib-master\src\external\jar_xm.h(2220,43): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "../external/raylib-master/src/raudio.c")
+  
+C:\Users\ALUMNOS\Desktop\raylib-quickstart\build\external\raylib-master\src\external\sinfl.h(428,15): warning C4018: '>': no coinciden signed/unsigned
+  (compilando archivo de origen "../external/raylib-master/src/rcore.c")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(60,1): warning C4005: 'MAX_PATH': redefinición de macro
+  (compilando archivo de origen "../external/raylib-master/src/rcore.c")
+  C:\Users\ALUMNOS\Desktop\raylib-quickstart\build\external\raylib-master\src\rcore.c(166,1):
+  vea la definición anterior de 'MAX_PATH'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': redefinición de macro
+  (compilando archivo de origen "../external/raylib-master/src/rcore.c")
+  C:\Users\ALUMNOS\Desktop\raylib-quickstart\build\external\raylib-master\src\external\glfw\include\GLFW\glfw3.h(123,1):
+  vea la definición anterior de 'APIENTRY'
+  
+  rglfw.c
+  rmodels.c
+  rshapes.c
+  rtext.c
+  rtextures.c
+  utils.c
+  Generando código...
+  raylib.vcxproj -> C:\Users\ALUMNOS\Desktop\raylib-quickstart\bin\Debug\raylib.lib
