@@ -1,110 +1,110 @@
 ﻿  EnemyCharacter.cpp
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\EnemyCharacter.cpp(35,43): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\EnemyCharacter.cpp(35,31): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\EnemyCharacter.cpp(36,48): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\EnemyCharacter.cpp(36,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\EnemyCharacter.cpp(35,43): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\EnemyCharacter.cpp(35,31): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\EnemyCharacter.cpp(36,48): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\EnemyCharacter.cpp(36,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   GameObject.cpp
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\GameObject.cpp(14,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\GameObject.cpp(14,40): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\GameObject.cpp(14,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\GameObject.cpp(14,40): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   Inventory.cpp
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\Inventory.cpp(64,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\Inventory.cpp(64,28): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\Inventory.cpp(64,22): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\Inventory.cpp(64,16): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\Inventory.cpp(65,40): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\Inventory.cpp(65,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\Inventory.cpp(65,27): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\Inventory.cpp(65,21): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\Inventory.cpp(66,60): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\Inventory.cpp(66,49): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\Inventory.cpp(64,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\Inventory.cpp(64,28): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\Inventory.cpp(64,22): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\Inventory.cpp(64,16): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\Inventory.cpp(65,40): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\Inventory.cpp(65,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\Inventory.cpp(65,27): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\Inventory.cpp(65,21): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\Inventory.cpp(66,60): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\Inventory.cpp(66,49): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   Item.cpp
   LinkedList.cpp
   LLNode.cpp
   main.cpp
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(52,53): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(52,53): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/main.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(52,45): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(52,45): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/main.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(52,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(52,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/main.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(52,25): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(52,25): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/main.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(53,58): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(53,58): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/main.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(53,50): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(53,50): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/main.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(53,42): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(53,42): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/main.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(53,30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(53,30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/main.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(54,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(54,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/main.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(54,39): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(54,39): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/main.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\Heap.h(36,18): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\Heap.h(36,18): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/main.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\Heap.h(62,32): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\Heap.h(62,32): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/main.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\main.cpp(52,8): warning C4101: 'buffer': variable local sin referencia
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\main.cpp(149,61): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\main.cpp(154,67): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\main.cpp(52,8): warning C4101: 'buffer': variable local sin referencia
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\main.cpp(149,61): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\main.cpp(154,67): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
   PanelMensaje.cpp
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(52,53): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(52,53): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/PanelMensaje.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(52,45): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(52,45): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/PanelMensaje.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(52,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(52,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/PanelMensaje.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(52,25): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(52,25): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/PanelMensaje.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(53,58): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(53,58): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/PanelMensaje.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(53,50): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(53,50): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/PanelMensaje.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(53,42): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(53,42): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/PanelMensaje.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(53,30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(53,30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/PanelMensaje.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(54,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(54,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/PanelMensaje.cpp")
   
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\include\PanelMensaje.h(54,39): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\include\PanelMensaje.h(54,39): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   (compilando archivo de origen "../../src/PanelMensaje.cpp")
   
   PlayerCharacter.cpp
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\PlayerCharacter.cpp(12,43): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\PlayerCharacter.cpp(12,31): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\PlayerCharacter.cpp(13,43): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\PlayerCharacter.cpp(13,29): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\PlayerCharacter.cpp(12,43): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\PlayerCharacter.cpp(12,31): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\PlayerCharacter.cpp(13,43): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\PlayerCharacter.cpp(13,29): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   Prop.cpp
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\Prop.cpp(10,43): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\Prop.cpp(10,31): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\Prop.cpp(11,48): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\Prop.cpp(11,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\Prop.cpp(10,43): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\Prop.cpp(10,31): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\Prop.cpp(11,48): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\Prop.cpp(11,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   Queue.cpp
   Stack.cpp
   Tempobject.cpp
   Generando código...
-C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\src\main.cpp(69,1): warning C4715: 'LoadBGM': no todas las rutas de acceso de control devuelven un valor
+C:\Users\ALUMNOS\Desktop\RPGRaylib\src\main.cpp(69,1): warning C4715: 'LoadBGM': no todas las rutas de acceso de control devuelven un valor
   md5.c
-  raylib-quickstart.vcxproj -> C:\Users\ALUMNOS\Desktop\RPGRaylib7\RPGRaylib\RPGRaylib\bin\Debug\raylib-quickstart.exe
+  raylib-quickstart.vcxproj -> C:\Users\ALUMNOS\Desktop\RPGRaylib\bin\Debug\raylib-quickstart.exe
