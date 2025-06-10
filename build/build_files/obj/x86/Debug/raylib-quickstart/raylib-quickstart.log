@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\ALUMNOS\Desktop\raylib-quickstart\src\main.c(33,24): warning C4013: 'malloc' sin definir; se supone que extern devuelve como resultado int
+C:\Users\ALUMNOS\Desktop\raylib-quickstart\src\main.c(35,3): warning C4013: 'printf' sin definir; se supone que extern devuelve como resultado int
+C:\Users\ALUMNOS\Desktop\raylib-quickstart\src\main.c(45,3): warning C4013: 'memset' sin definir; se supone que extern devuelve como resultado int
+  raylib-quickstart.vcxproj -> C:\Users\ALUMNOS\Desktop\raylib-quickstart\bin\Debug\raylib-quickstart.exe
